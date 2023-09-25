@@ -1,0 +1,7 @@
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\bin\Debug\Arvauspeli.exe.config
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\bin\Debug\Arvauspeli.exe
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\bin\Debug\Arvauspeli.pdb
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.csproj.AssemblyReference.cache
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.csproj.CoreCompileInputs.cache
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.exe
+C:\Users\arinp\source\repos\Arvauspeli\Arvauspeli\obj\Debug\Arvauspeli.pdb
